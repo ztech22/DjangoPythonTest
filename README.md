@@ -1,0 +1,2 @@
+# DjangoPythonTest
+blogging system
